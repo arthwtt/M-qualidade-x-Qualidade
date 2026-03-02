@@ -1,0 +1,27 @@
+{
+  "name": "exercicio-qualidade-codigo",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "run:01:ruim": "node 01-legibilidade/ruim.js",
+    "run:01:bom": "node 01-legibilidade/bom.js",
+    "run:02:ruim": "node 02-documentacao/ruim.js",
+    "run:02:bom": "node 02-documentacao/bom.js",
+    "run:03:ruim": "node 03-padronizacao/ruim.js",
+    "run:03:bom": "node 03-padronizacao/bom.js",
+    "run:04:ruim": "node 04-reutilizacao/ruim.js",
+    "run:04:bom": "node 04-reutilizacao/bom.js",
+    "run:05:ruim": "node 05-manutenibilidade/ruim.js",
+    "run:05:bom": "node 05-manutenibilidade/bom.js",
+    "run:06:ruim": "node 06-robustez/ruim.js",
+    "run:06:bom": "node 06-robustez/bom.js",
+    "run:07:ruim": "node 07-testabilidade/ruim.js",
+    "run:07:bom": "node 07-testabilidade/bom.js",
+    "run:08:ruim": "node 08-eficiencia/ruim.js",
+    "run:08:bom": "node 08-eficiencia/bom.js",
+    "run:09:ruim": "node 09-escalabilidade/ruim.js",
+    "run:09:bom": "node 09-escalabilidade/bom.js",
+    "run:10:ruim": "node 10-seguranca/ruim.js",
+    "run:10:bom": "node 10-seguranca/bom.js"
+  }
+}
